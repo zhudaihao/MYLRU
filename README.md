@@ -3,7 +3,7 @@
 DiskLruCache目前磁盘缓存比较好的方案，但是由于其的存取API，并不是特别好用。
 
 
-实现对象存储
+//实现对象存储
 //存对象
 User user = new User("李四");
 helper.putObject("user", user);
